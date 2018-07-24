@@ -1,0 +1,23 @@
+{
+  "name": "pareto-socket",
+  "version": "1.0.0",
+  "description": "Basic cryptocurrency ticker supporting multiple exchanges and currencies with websockets where available.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon test.js"
+  },
+  "dependencies": {
+    "autobahn": "17.5.2",
+    "bufferutil": "^3.0.2",
+    "crypto-socket": "^3.0.2",
+    "faye-websocket": "0.11.1",
+    "node.bittrex.api": "^0.5.1",
+    "pusher-client": "1.1.0",
+    "utf-8-validate": "^3.0.3"
+  },
+  "author": "Sean McElrath",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  }
+}
