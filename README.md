@@ -1,9 +1,5 @@
 ## pareto-socket
 
-** Sean McElrath, 2018 **
-
-*** Provided as is. ***
-
 Combines public crypto currency websocket APIs to provide a low-resource, zero-configuration ticker. Each exchange, except for Bittrex, uses a real-time websocket.
 
 
