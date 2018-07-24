@@ -3,7 +3,7 @@
 Combines public crypto currency websocket APIs to provide a low-resource, zero-configuration ticker. Each exchange, except for Bittrex, uses a real-time websocket.
 
 
-### Supported exchanges
+### Supported exchanges (more coming soon)
 
  - Bittrex
  - Bitstamp
